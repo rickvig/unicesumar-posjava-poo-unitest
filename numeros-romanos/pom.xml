@@ -5,7 +5,7 @@
 	<groupId>romanos</groupId>
 	<artifactId>com.br.unicesumar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>com.br.unicesumar</name>
+	<name>romanos</name>
 
 	<properties>
 		<junit.jupiter.version>5.6.2</junit.jupiter.version>
