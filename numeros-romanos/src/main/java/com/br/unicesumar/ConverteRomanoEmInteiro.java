@@ -18,6 +18,8 @@ public class ConverteRomanoEmInteiro {
 	};
 
 	public int converte(String numeroEmRomano) {
+		ValidadorDeNumeroRomano.valida(numeroEmRomano);
+		
 		int acumulador = 0;
 		int ultimoVizinhoDaDireita = 0;
 
